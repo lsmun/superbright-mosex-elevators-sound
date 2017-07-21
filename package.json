@@ -1,0 +1,8 @@
+{ "name": "superbright-mosex-elevators-sound",
+  "description": "Plays a sound file from the computer to the amps.",
+  "version": "1.0.0",
+  "devDependencies": {
+    "play-sound": "1.1.1"
+  },
+  "main": "app.js"
+}
